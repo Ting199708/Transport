@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/start"
+            android:icon="@drawable/home"
+            android:title="時刻表"
+            android:checked="true"/>
+        <item
+            android:id="@+id/reservation"
+            android:icon="@drawable/ticket"
+            android:title="末班車票預約/檢視"
+            />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="設定" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="關於"/>
+    </group>
+
+</menu>

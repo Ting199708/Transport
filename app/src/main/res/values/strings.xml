@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">乘車資訊</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="e04a">E04A(燕巢學園快線)</string>
+    <string name="_7a">7A(港都客運)</string>
+    <string name="school">校車</string>
+    <string name="e04_toNKNU">E04A(往高師大) :</string>
+    <string name="e04_toTHSR">E04A(往高鐵):</string>
+    <string name="_7a_toJiaChang">7A(往加昌站) :</string>
+    <string name="_7a_toNKNU">7A(往高師大) :</string>
+    <string name="school_toYanChao">校車(往燕巢) :</string>
+    <string name="school_toHePing">校車(往和平) :</string>
+    <string name="recent">最近班次</string>
+    <string name="toChiaChang">往加昌站</string>
+    <string name="toNKNU">往高師大</string>
+    <string name="toHePing">往和平</string>
+    <string name="toYanChao">往燕巢</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="askforpermission">App需要儲存權限來存取您的檔案</string>
+    <string name="turnon">開啟</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

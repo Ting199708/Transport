@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ting199708.transport.AboutActivity"
+    android:orientation="vertical" android:padding="7dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="資料庫版本："
+        android:id="@+id/textview"
+        android:textSize="22sp"/>
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="App版本：8.3"
+        android:textSize="22sp"/>
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="10dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="最近班次顯示時間：\n7A(往高師大)為「楠梓火車站」\n校車(往和平)為「高斯大樓(郵局)」"
+        android:textSize="22sp"/>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="20dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="製作：電子系108級"
+        android:textSize="22sp"/>
+
+</LinearLayout>
